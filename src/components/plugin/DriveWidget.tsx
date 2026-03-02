@@ -6,7 +6,7 @@ import { getStaticAssetPath } from "@/lib/utils";
 
 const DriveButton = () => {
   const openDrive = () => {
-    window.open("https://drive.google.com/file/d/1ZeZmsTahL-W1p57-A8pyq5CuOtX9aLt5/view?usp=sharing", "_blank");
+    window.open("https://drive.google.com/file/d/1M1eh4AH58Pi0FhEVsExpeVvponCvXHOm/view?usp=share_link", "_blank");
   };
 
   return (
